@@ -1,4 +1,4 @@
-package io.github.brianboyko.calcengine;
+package io.github.cshahidhussain.calcengine;
 
 /**
  * Created by brianboyko on 7/10/16.
